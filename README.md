@@ -10,7 +10,7 @@ I'm Moaz, a Computer Science student and Front-End Developer from Egypt 🇪🇬
 
 - HTML, CSS, JavaScript, TypeScript
 - Angular
-- Bootstrap ,Tailwind  
+- Bootstrap , Tailwind, JQuery  
 - Git & GitHub  
 - Responsive Design
 - Problem Solving

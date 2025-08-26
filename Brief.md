@@ -28,14 +28,17 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)  
 
 ---
-
 ## 📊 GitHub Stats  
 
-![Moaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=moazallam1&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moazallam1&layout=compact&theme=tokyonight)  
-![GitHub Streak](https://streak-stats.demolab.com?user=moazallam1&theme=tokyonight&hide_border=true)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=moazallam1&show_icons=true&theme=tokyonight" alt="Moaz's GitHub stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moazallam1&layout=compact&theme=tokyonight" alt="Top Langs" height="165"/>
+</p>
 
----
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=moazallam1&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
+
 
 ## 📈 Contribution Graph  
 

@@ -1,15 +1,16 @@
 # Hi there 👋, I'm Moaz Moustafa Allam  
 
 🎓 **Computer Science Student @ Alexandria University**  
-💻 **Front-End Developer** specialized in **Angular** | Passionate about building **modern, responsive, and scalable web applications**  
+💻 **Front-End Developer** passionate about building **modern, responsive, and scalable web applications**  
 
 ---
 
-## 🚀 About Me  
-- 🌱 Skilled in **Angular, TypeScript, and modern front-end frameworks**  
-- 💼 Open to **Internship Opportunities** & **Open Source Contributions**  
+## 🚀 About Me
+- 🌱 Skilled in **Angular**
+- 💼 Open to **Internship Opportunities** & **Open Source Contributions**
 - 📫 Reach me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moazallam/)  
-- 💻 Explore my work on [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/moazallam1?tab=repositories)  
+- 💻 Check out my projects on [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/moazallam1?tab=repositories)
+
 
 ---
 
@@ -27,7 +28,6 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)  
 
 ---
-
 ## 📊 GitHub Stats  
 
 <p align="center">
@@ -35,15 +35,15 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moazallam1&layout=compact&theme=tokyonight" alt="Top Langs" height="165"/>
 </p>
 
-<p align="center"> <img src="https://streak-stats.demolab.com?user=moazallam1&theme=tokyonight&hide_border=true" alt="GitHub Streak"/> </p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=moazallam1&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
 
-
----
 
 ## 📈 Contribution Graph  
 
-![Moaz's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=moazallam1&theme=tokyo-night)  
+![Moaz's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=moazallam1&theme=tokyo-night)
 
 ---
 
-⭐️ From [Moaz Moustafa Allam](https://github.com/moazallam1)  
+⭐️ From [Moaz Moustafa Allam](https://github.com/moazallam1)     

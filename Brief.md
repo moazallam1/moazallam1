@@ -1,16 +1,15 @@
 # Hi there 👋, I'm Moaz Moustafa Allam  
 
 🎓 **Computer Science Student @ Alexandria University**  
-💻 **Front-End Developer** passionate about building **modern, responsive, and scalable web applications**  
+💻 **Front-End Developer** specialized in **Angular** | Passionate about building **modern, responsive, and scalable web applications**  
 
 ---
 
-## 🚀 About Me
-- 🌱 Skilled in **Angular**
-- 💼 Open to **Internship Opportunities** & **Open Source Contributions**
+## 🚀 About Me  
+- 🌱 Skilled in **Angular, TypeScript, and modern front-end frameworks**  
+- 💼 Open to **Internship Opportunities** & **Open Source Contributions**  
 - 📫 Reach me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moazallam/)  
-- 💻 Check out my projects on [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/moazallam1?tab=repositories)
-
+- 💻 Explore my work on [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/moazallam1?tab=repositories)  
 
 ---
 

@@ -35,9 +35,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moazallam1&layout=compact&theme=tokyonight" alt="Top Langs" height="165"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=moazallam1&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
+<p align="center"> <img src="https://streak-stats.demolab.com?user=moazallam1&theme=tokyonight&hide_border=true" alt="GitHub Streak"/> </p>
 
 
 ---
